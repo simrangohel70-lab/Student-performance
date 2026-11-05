@@ -19,7 +19,9 @@ It helps educators and institutions understand student performance, compare subj
 
 Watch the complete project walkthrough to explore the dashboard, data modeling, DAX measures, visualizations, and interactive features.
 
-▶️ **[Click Here to Watch the Project Demo](YOUR_GOOGLE_DRIVE_VIDEO_LINK)**
+▶️ **[Click Here to Watch the Project Demo]
+
+https://drive.google.com/file/d/1nLwEDAnVBZW7RD2jm1laS_JBu07a4of7/view?usp=sharing
 
 
 
